@@ -1,4 +1,5 @@
-## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowlux20&show_icons=true&theme=dark)
+
 
 <!--
 **shadowlux20/shadowlux20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
